@@ -1,0 +1,22 @@
+{
+  "name": "tugas-ci-cd-github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Running test...\" && exit 0",
+    "build": "echo \"Building app...\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabilakhyarotunnisa/tugas-ci-cd-github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nabilakhyarotunnisa/tugas-ci-cd-github-actions/issues"
+  },
+  "homepage": "https://github.com/nabilakhyarotunnisa/tugas-ci-cd-github-actions#readme"
+}
