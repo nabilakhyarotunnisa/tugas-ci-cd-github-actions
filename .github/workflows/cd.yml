@@ -13,4 +13,9 @@ jobs:
 
     steps:
       - name: Deploy application
-        run: echo "Deploying application to production..."
+        run: |
+          echo "Connecting to server..."
+          echo "Uploading build files..."
+          echo "Restarting application..."
+          echo "Deploy success!"
+
